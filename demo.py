@@ -99,7 +99,7 @@ if __name__=='__main__':
     # 初始化窗口大小
     glutInitWindowSize(1000, 800)
     # 创建窗口
-    win_id=glutCreateWindow("First")
+    win_id=glutCreateWindow("CUBE")
     # 注册键盘事件
     glutKeyboardFunc(close)
     # 初始化相机
